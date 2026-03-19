@@ -2,6 +2,8 @@
 
 > Instant wireless file transfer — transfer files instantly between any devices on any network.
 
+![FileShare UI](public/screenshot.png)
+
 ## Features
 
 - **Instant file transfers** — drag-and-drop files to nearby or manually-added devices
